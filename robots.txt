@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /over-ons
+Allow: /carplay
+Allow: /sterrenhemel
+Allow: /sfeerverlichting
+Allow: /achteruitcamera
+Allow: /android-schermen
+Allow: /realisaties
+Allow: /contact
+Disallow: /admin
+
+Sitemap: https://example.com/sitemap.xml
